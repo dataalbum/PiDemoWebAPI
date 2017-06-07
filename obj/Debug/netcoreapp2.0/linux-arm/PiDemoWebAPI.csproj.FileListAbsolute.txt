@@ -1,0 +1,15 @@
+C:\Users\heikk\Documents\Visual Studio 2017\Projects\PiDemoWebAPI\bin\Debug\netcoreapp2.0\linux-arm\x86\e_sqlite3.dll
+C:\Users\heikk\Documents\Visual Studio 2017\Projects\PiDemoWebAPI\bin\Debug\netcoreapp2.0\linux-arm\x64\e_sqlite3.dll
+C:\Users\heikk\Documents\Visual Studio 2017\Projects\PiDemoWebAPI\bin\Debug\netcoreapp2.0\linux-arm\libhostpolicy.so
+C:\Users\heikk\Documents\Visual Studio 2017\Projects\PiDemoWebAPI\bin\Debug\netcoreapp2.0\linux-arm\libhostfxr.so
+C:\Users\heikk\Documents\Visual Studio 2017\Projects\PiDemoWebAPI\bin\Debug\netcoreapp2.0\linux-arm\PiDemoWebAPI
+C:\Users\heikk\Documents\Visual Studio 2017\Projects\PiDemoWebAPI\bin\Debug\netcoreapp2.0\linux-arm\PiDemoWebAPI.deps.json
+C:\Users\heikk\Documents\Visual Studio 2017\Projects\PiDemoWebAPI\bin\Debug\netcoreapp2.0\linux-arm\PiDemoWebAPI.runtimeconfig.json
+C:\Users\heikk\Documents\Visual Studio 2017\Projects\PiDemoWebAPI\bin\Debug\netcoreapp2.0\linux-arm\PiDemoWebAPI.runtimeconfig.dev.json
+C:\Users\heikk\Documents\Visual Studio 2017\Projects\PiDemoWebAPI\bin\Debug\netcoreapp2.0\linux-arm\PiDemoWebAPI.dll
+C:\Users\heikk\Documents\Visual Studio 2017\Projects\PiDemoWebAPI\bin\Debug\netcoreapp2.0\linux-arm\PiDemoWebAPI.pdb
+C:\Users\heikk\Documents\Visual Studio 2017\Projects\PiDemoWebAPI\obj\Debug\netcoreapp2.0\linux-arm\PiDemoWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\heikk\Documents\Visual Studio 2017\Projects\PiDemoWebAPI\obj\Debug\netcoreapp2.0\linux-arm\UserSecretsAssemblyInfo.cs
+C:\Users\heikk\Documents\Visual Studio 2017\Projects\PiDemoWebAPI\obj\Debug\netcoreapp2.0\linux-arm\PiDemoWebAPI.AssemblyInfo.cs
+C:\Users\heikk\Documents\Visual Studio 2017\Projects\PiDemoWebAPI\obj\Debug\netcoreapp2.0\linux-arm\PiDemoWebAPI.dll
+C:\Users\heikk\Documents\Visual Studio 2017\Projects\PiDemoWebAPI\obj\Debug\netcoreapp2.0\linux-arm\PiDemoWebAPI.pdb
